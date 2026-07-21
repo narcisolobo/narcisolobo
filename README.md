@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.png" width="64" height="64" style="border-radius: 50%;" alt="it me" />
+  <img src="avatar.png" width="90" height="90" alt="it me" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Narciso</h1>
