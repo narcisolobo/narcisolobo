@@ -3,7 +3,7 @@
 
 <p align="center">
 Freelance web developer building custom sites for small businesses, with four years
-teaching Python/Flask, MERN/Next.js, Java/Spring, and C#/.NET as a coding bootcamp instructor.
+teaching Python/Flask, MERN, Java/Spring, and C#/.NET as a coding bootcamp instructor.
 </p>
 
 <br />
