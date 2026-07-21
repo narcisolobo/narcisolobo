@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://wsrv.nl/?url=i.imgur.com/59pmN9v.png&w=64&h=64&fit=cover&mask=circle" width="64" height="64" alt="Narciso" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Narciso</h1>
 <h3 align="center">Full-stack developer & former coding instructor, based in Los Angeles</h3>
 
 <p align="center">
 Freelance web developer building custom sites for small businesses, with four years
-teaching Python/Flask, MERN, Java/Spring, and C#/.NET as a coding bootcamp instructor.
+teaching Python/Flask, MERN/Next.js, Java/Spring, and C#/.NET as a coding bootcamp instructor.
 </p>
 
 <br />
