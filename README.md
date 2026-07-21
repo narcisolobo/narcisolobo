@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wsrv.nl/?url=i.imgur.com/59pmN9v.png&w=64&h=64&fit=cover&mask=circle" width="64" height="64" alt="Narciso" />
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/narcisolobo/narcisolobo/main/avatar.png&w=64&h=64&fit=cover&mask=circle" width="64" height="64" alt="Narciso" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Narciso</h1>
